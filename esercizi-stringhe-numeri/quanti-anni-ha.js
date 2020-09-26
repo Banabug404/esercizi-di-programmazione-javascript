@@ -11,3 +11,6 @@
 
   http://www.imparareaprogrammare.it
 */
+const year=2020
+const birthday=2007
+function age(2020-2007){return age}
